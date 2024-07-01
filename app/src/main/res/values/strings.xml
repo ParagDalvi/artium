@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Artium</string>
+    <string name="accept_call">Accept</string>
+    <string name="incoming_call">Incoming call</string>
+</resources>
